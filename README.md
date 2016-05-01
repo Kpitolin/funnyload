@@ -26,7 +26,7 @@ infer the game logic and design from a gif ?
 
 
 ## Specification objectives
-* Do not overload the processor (10-20% max)
+* Do not overload the processor (5-10% max)
 * zero loading time for the game (it would be completely unproductive to have one)
 
 
